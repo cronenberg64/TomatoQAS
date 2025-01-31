@@ -5,7 +5,6 @@ To recreate this model on your own, you can simply download the VGG16.py, test_d
 
 That should cover all the essential information, if there are any inquiries please don't hesitate to contact me, thank you!
 
-
 Some important notes: 
 The datasets required to train, validate, and test the model developed is stored on kaggle at the following link:
 https://www.kaggle.com/datasets/cronenberg64/tomatoqas-dataset
